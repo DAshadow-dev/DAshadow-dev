@@ -4,7 +4,7 @@
 I'm a passionate developer with a keen interest in open-source projects. I love to learn new technologies and contribute to the community. My areas of expertise include web development, cloud computing, and automation.
 
 ## Skills
-- **Languages:** JavaScript, Python, Go, Java
+- **Languages:** JavaScript, Java
 - **Frameworks:** ReactJS, NodeJS/ExpressJS, Java SpringBoot
 - **Tools & Technologies:** GitHub Actions
 - **Databases:** MySQL, SQLServer, MongoDB
