@@ -35,10 +35,6 @@ Here are some of the projects I've been working on:
 - [**Project 1**](https://github.com/Lkh-Nguyen/Travelink) - A platform that can help travellers book hotel rooms to stay when traveling.
 - [**Project 2**](https://github.com/DAshadow-dev/BizNest) - A multiplatform project that helps shopping enterprises manage their business.
 
-## 📊 GitHub Stats
-![DAshadow-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAshadow-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DAshadow-dev&layout=compact&theme=radical)
-
 ## 📬 Get in Touch
 - **Email:** [duyan9646@gmail.com](mailto:duyan9646@gmail.com)
 
